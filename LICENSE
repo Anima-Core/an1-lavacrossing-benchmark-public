@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Anima-Core
+Copyright (c) 2025 Anima Core Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,4 +37,5 @@ This software does not include:
 - Or any other proprietary intellectual property
 
 Users are responsible for implementing their own agents and constraint learning
+
 systems to be tested with this benchmark harness.
